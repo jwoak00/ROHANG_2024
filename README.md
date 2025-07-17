@@ -71,3 +71,6 @@ auto delta = line_guidance(start, end, local, step);
 
 └── utils.{h,cpp}   
 
+
+<img width="628" height="547" alt="image" src="https://github.com/user-attachments/assets/bcfb08b7-f310-490d-b359-d049cd7f97f6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e992c0d4-b9cd-4320-86ed-831c444e1f18" />
